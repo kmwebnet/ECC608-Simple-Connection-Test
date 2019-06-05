@@ -11,8 +11,10 @@ it helps to make sure the connection between them.
 # Environment reference
   
   Espressif ESP32-DevkitC
-    this project initialize both of I2C 0,1 port, and the device on I2C port 0 is absent.
-    pin assined as below:
+  this project initialize both of I2C 0,1 port, and the device on I2C port 0 is absent.
+  pin assined as below:
+
+
       I2C 0 SDA GPIO_NUM_18
       I2C 0 SCL GPIO_NUM_19
 
