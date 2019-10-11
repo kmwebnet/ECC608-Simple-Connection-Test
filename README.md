@@ -1,6 +1,6 @@
 # ECC608-Simple-Connection-Test
 
-This communicates ATECC608 secure chip from ESP32 and get infos (serial number, revision number, and current config data),
+This communicates ATECC608A secure chip from ESP32 and get infos (serial number, revision number, and current config data),
 it helps to make sure the connection between them.
 
 # Requirements
@@ -21,7 +21,7 @@ it helps to make sure the connection between them.
       I2C 1 SDA GPIO_NUM_21
       I2C 1 SCL GPIO_NUM_22
           
-  Microchip ATECC608(on I2C port 1)  
+  Microchip ATECC608A(on I2C port 1)  
 
 # Usage
 
